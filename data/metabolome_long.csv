@@ -1,0 +1,487 @@
+compound,category,sample_id,group,replicate,peak_area_ratio_corrected
+Alanine,amino acid,L1,Control,1,0.030158182985977593
+Alanine,amino acid,L2,Control,2,0.034850133098051406
+Alanine,amino acid,L3,Control,3,0.08625314584205292
+Alanine,amino acid,H1,AGEs,1,0.08701928347809139
+Alanine,amino acid,H2,AGEs,2,0.1298236080713581
+Alanine,amino acid,H3,AGEs,3,0.0329422927044153
+Alanine,amino acid,HC1,AGEs+Coffee,1,0.05916541722691194
+Alanine,amino acid,HC2,AGEs+Coffee,2,0.024343553487122443
+Alanine,amino acid,HC3,AGEs+Coffee,3,0.05801679188972629
+Valine,amino acid,L1,Control,1,0.08154538815445499
+Valine,amino acid,L2,Control,2,0.05016718719451365
+Valine,amino acid,L3,Control,3,0.08408027264870388
+Valine,amino acid,H1,AGEs,1,0.10825303626463315
+Valine,amino acid,H2,AGEs,2,0.07774992612774141
+Valine,amino acid,H3,AGEs,3,0.06730507268476162
+Valine,amino acid,HC1,AGEs+Coffee,1,0.08488961360953474
+Valine,amino acid,HC2,AGEs+Coffee,2,0.06561157580747425
+Valine,amino acid,HC3,AGEs+Coffee,3,0.07734152928258348
+Leucine,amino acid,L1,Control,1,0.011566417051113735
+Leucine,amino acid,L2,Control,2,0.009385543195456118
+Leucine,amino acid,L3,Control,3,0.014953281188000413
+Leucine,amino acid,H1,AGEs,1,0.01697019161662058
+Leucine,amino acid,H2,AGEs,2,0.01382037271684638
+Leucine,amino acid,H3,AGEs,3,0.010753956151943344
+Leucine,amino acid,HC1,AGEs+Coffee,1,0.014497408706885536
+Leucine,amino acid,HC2,AGEs+Coffee,2,0.011583542048094801
+Leucine,amino acid,HC3,AGEs+Coffee,3,0.011212657270743739
+Isoleucine + allo-Isoleucine,amino acid,L1,Control,1,0.009216251868973313
+Isoleucine + allo-Isoleucine,amino acid,L2,Control,2,0.0079066759576292
+Isoleucine + allo-Isoleucine,amino acid,L3,Control,3,0.01031537236442304
+Isoleucine + allo-Isoleucine,amino acid,H1,AGEs,1,0.01253730616023681
+Isoleucine + allo-Isoleucine,amino acid,H2,AGEs,2,0.009186453580676018
+Isoleucine + allo-Isoleucine,amino acid,H3,AGEs,3,0.009158618820100979
+Isoleucine + allo-Isoleucine,amino acid,HC1,AGEs+Coffee,1,0.010934893540699304
+Isoleucine + allo-Isoleucine,amino acid,HC2,AGEs+Coffee,2,0.010442692405157333
+Isoleucine + allo-Isoleucine,amino acid,HC3,AGEs+Coffee,3,0.007961115691655796
+Proline,amino acid,L1,Control,1,0.016116915216979028
+Proline,amino acid,L2,Control,2,0.013155401374594564
+Proline,amino acid,L3,Control,3,0.030557473107466857
+Proline,amino acid,H1,AGEs,1,0.028353899940310144
+Proline,amino acid,H2,AGEs,2,0.0231232690102119
+Proline,amino acid,H3,AGEs,3,0.010820372064653859
+Proline,amino acid,HC1,AGEs+Coffee,1,0.013881969265540433
+Proline,amino acid,HC2,AGEs+Coffee,2,0.01212597992471003
+Proline,amino acid,HC3,AGEs+Coffee,3,0.005383107725378927
+Glycine,amino acid,L1,Control,1,0.46052759793839276
+Glycine,amino acid,L2,Control,2,0.5129072524651965
+Glycine,amino acid,L3,Control,3,0.582096285868035
+Glycine,amino acid,H1,AGEs,1,0.5444567613989353
+Glycine,amino acid,H2,AGEs,2,0.5310025592355349
+Glycine,amino acid,H3,AGEs,3,0.37474026634136426
+Glycine,amino acid,HC1,AGEs+Coffee,1,0.6953891277054425
+Glycine,amino acid,HC2,AGEs+Coffee,2,0.4969840250518776
+Glycine,amino acid,HC3,AGEs+Coffee,3,0.5371378950397218
+Serine,amino acid,L1,Control,1,0.005793162412864194
+Serine,amino acid,L2,Control,2,0.0050080961714884424
+Serine,amino acid,L3,Control,3,0.006750990634495279
+Serine,amino acid,H1,AGEs,1,0.0069605681499799
+Serine,amino acid,H2,AGEs,2,0.006416869919717132
+Serine,amino acid,H3,AGEs,3,0.0033912778286062824
+Serine,amino acid,HC1,AGEs+Coffee,1,0.007523600637243582
+Serine,amino acid,HC2,AGEs+Coffee,2,0.0036678163364376793
+Serine,amino acid,HC3,AGEs+Coffee,3,0.0023922055903289863
+Threonine,amino acid,L1,Control,1,0.059637406079834365
+Threonine,amino acid,L2,Control,2,0.039329847551346775
+Threonine,amino acid,L3,Control,3,0.06546884597196327
+Threonine,amino acid,H1,AGEs,1,0.06772362378336237
+Threonine,amino acid,H2,AGEs,2,0.0626023569006706
+Threonine,amino acid,H3,AGEs,3,0.05819524922910101
+Threonine,amino acid,HC1,AGEs+Coffee,1,0.06768661589193586
+Threonine,amino acid,HC2,AGEs+Coffee,2,0.05327900134439106
+Threonine,amino acid,HC3,AGEs+Coffee,3,0.04533707002556073
+3-Aminopropanoic acid,amino acid,L1,Control,1,0.011775972573373247
+3-Aminopropanoic acid,amino acid,L2,Control,2,0.022117838146753763
+3-Aminopropanoic acid,amino acid,L3,Control,3,0.011307365754757492
+3-Aminopropanoic acid,amino acid,H1,AGEs,1,0.021249588870887185
+3-Aminopropanoic acid,amino acid,H2,AGEs,2,0.022646229509838783
+3-Aminopropanoic acid,amino acid,H3,AGEs,3,0.020763782996170918
+3-Aminopropanoic acid,amino acid,HC1,AGEs+Coffee,1,0.020732689446913366
+3-Aminopropanoic acid,amino acid,HC2,AGEs+Coffee,2,0.025903698449319713
+3-Aminopropanoic acid,amino acid,HC3,AGEs+Coffee,3,0.018913133518361533
+N-Acetylserine,amino acid,L1,Control,1,0.002096603000206412
+N-Acetylserine,amino acid,L2,Control,2,0.0012372353704938415
+N-Acetylserine,amino acid,L3,Control,3,0.0024364988340680425
+N-Acetylserine,amino acid,H1,AGEs,1,0.0018991119611163221
+N-Acetylserine,amino acid,H2,AGEs,2,0.002025852786361428
+N-Acetylserine,amino acid,H3,AGEs,3,0.0014231981295110298
+N-Acetylserine,amino acid,HC1,AGEs+Coffee,1,0.0015462183297794147
+N-Acetylserine,amino acid,HC2,AGEs+Coffee,2,0.0014166482631302025
+N-Acetylserine,amino acid,HC3,AGEs+Coffee,3,0.0009690110023393035
+Aspartic acid,amino acid,L1,Control,1,0.00859596752308516
+Aspartic acid,amino acid,L2,Control,2,0.007850529133684584
+Aspartic acid,amino acid,L3,Control,3,0.00771716501877993
+Aspartic acid,amino acid,H1,AGEs,1,0.0076159384098135
+Aspartic acid,amino acid,H2,AGEs,2,0.010646369741922882
+Aspartic acid,amino acid,H3,AGEs,3,0.0042140218901426585
+Aspartic acid,amino acid,HC1,AGEs+Coffee,1,0.005889462387272009
+Aspartic acid,amino acid,HC2,AGEs+Coffee,2,0.004843268020284937
+Aspartic acid,amino acid,HC3,AGEs+Coffee,3,0.0033315398242877254
+Methionine,amino acid,L1,Control,1,0.003213533933849608
+Methionine,amino acid,L2,Control,2,0.001893952686274608
+Methionine,amino acid,L3,Control,3,0.0030126703374951757
+Methionine,amino acid,H1,AGEs,1,0.0032220340841261526
+Methionine,amino acid,H2,AGEs,2,0.003662311124911729
+Methionine,amino acid,H3,AGEs,3,0.0033885669750262615
+Methionine,amino acid,HC1,AGEs+Coffee,1,0.0025168542487008366
+Methionine,amino acid,HC2,AGEs+Coffee,2,0.0016446146503005799
+Methionine,amino acid,HC3,AGEs+Coffee,3,0.0
+4-Hydroxyproline,amino acid,L1,Control,1,0.005191738063979397
+4-Hydroxyproline,amino acid,L2,Control,2,0.0043202975781669066
+4-Hydroxyproline,amino acid,L3,Control,3,0.0030846917754235675
+4-Hydroxyproline,amino acid,H1,AGEs,1,0.004699662569587409
+4-Hydroxyproline,amino acid,H2,AGEs,2,0.006479473528689982
+4-Hydroxyproline,amino acid,H3,AGEs,3,0.004769746874046966
+4-Hydroxyproline,amino acid,HC1,AGEs+Coffee,1,0.006431049095655701
+4-Hydroxyproline,amino acid,HC2,AGEs+Coffee,2,0.003539585243654342
+4-Hydroxyproline,amino acid,HC3,AGEs+Coffee,3,0.005081178864463618
+5-Oxoproline,amino acid,L1,Control,1,0.15852141814604134
+5-Oxoproline,amino acid,L2,Control,2,0.14763907618422173
+5-Oxoproline,amino acid,L3,Control,3,0.16860354508542014
+5-Oxoproline,amino acid,H1,AGEs,1,0.15738509702647063
+5-Oxoproline,amino acid,H2,AGEs,2,0.18112350940807034
+5-Oxoproline,amino acid,H3,AGEs,3,0.20780319203009048
+5-Oxoproline,amino acid,HC1,AGEs+Coffee,1,0.19929804735718581
+5-Oxoproline,amino acid,HC2,AGEs+Coffee,2,0.14737110994187874
+5-Oxoproline,amino acid,HC3,AGEs+Coffee,3,0.11339880286496941
+Cysteine,amino acid,L1,Control,1,0.0206317889440602
+Cysteine,amino acid,L2,Control,2,0.01760603979406147
+Cysteine,amino acid,L3,Control,3,0.015479173574383198
+Cysteine,amino acid,H1,AGEs,1,0.02044316672960495
+Cysteine,amino acid,H2,AGEs,2,0.02012079992387401
+Cysteine,amino acid,H3,AGEs,3,0.018970553352987023
+Cysteine,amino acid,HC1,AGEs+Coffee,1,0.010852834948519956
+Cysteine,amino acid,HC2,AGEs+Coffee,2,0.008470376073299335
+Cysteine,amino acid,HC3,AGEs+Coffee,3,0.006657918471465787
+Phenylalanine,amino acid,L1,Control,1,0.026202822503329313
+Phenylalanine,amino acid,L2,Control,2,0.02244369025000376
+Phenylalanine,amino acid,L3,Control,3,0.029897050110614058
+Phenylalanine,amino acid,H1,AGEs,1,0.02602355922086465
+Phenylalanine,amino acid,H2,AGEs,2,0.022151660998953267
+Phenylalanine,amino acid,H3,AGEs,3,0.020620107756429806
+Phenylalanine,amino acid,HC1,AGEs+Coffee,1,0.012673363429298904
+Phenylalanine,amino acid,HC2,AGEs+Coffee,2,0.0
+Phenylalanine,amino acid,HC3,AGEs+Coffee,3,0.0
+N-Acetylaspartic acid,amino acid,L1,Control,1,0.0026110618073535126
+N-Acetylaspartic acid,amino acid,L2,Control,2,0.0026860239526361436
+N-Acetylaspartic acid,amino acid,L3,Control,3,0.002235382365890647
+N-Acetylaspartic acid,amino acid,H1,AGEs,1,0.0027725329207830334
+N-Acetylaspartic acid,amino acid,H2,AGEs,2,0.0019194266511075831
+N-Acetylaspartic acid,amino acid,H3,AGEs,3,0.002705431872860967
+N-Acetylaspartic acid,amino acid,HC1,AGEs+Coffee,1,0.001807633559150764
+N-Acetylaspartic acid,amino acid,HC2,AGEs+Coffee,2,0.001428860748157187
+N-Acetylaspartic acid,amino acid,HC3,AGEs+Coffee,3,0.0028115512304891376
+Asparagine,amino acid,L1,Control,1,0.002009637458468715
+Asparagine,amino acid,L2,Control,2,0.001716488617735378
+Asparagine,amino acid,L3,Control,3,0.0008846406809694901
+Asparagine,amino acid,H1,AGEs,1,0.0015568089071883642
+Asparagine,amino acid,H2,AGEs,2,0.0020195924254641433
+Asparagine,amino acid,H3,AGEs,3,0.0012808783165599268
+Asparagine,amino acid,HC1,AGEs+Coffee,1,0.0017079909829329852
+Asparagine,amino acid,HC2,AGEs+Coffee,2,0.0014044357781032178
+Asparagine,amino acid,HC3,AGEs+Coffee,3,0.0013419060485124843
+Pyruvic acid,organic acid,L1,Control,1,0.03219506266234004
+Pyruvic acid,organic acid,L2,Control,2,0.03709099294655524
+Pyruvic acid,organic acid,L3,Control,3,0.03177504307697325
+Pyruvic acid,organic acid,H1,AGEs,1,0.02459831162977671
+Pyruvic acid,organic acid,H2,AGEs,2,0.06688694789877248
+Pyruvic acid,organic acid,H3,AGEs,3,0.019035613838907527
+Pyruvic acid,organic acid,HC1,AGEs+Coffee,1,0.037807910213832965
+Pyruvic acid,organic acid,HC2,AGEs+Coffee,2,0.039055527116296444
+Pyruvic acid,organic acid,HC3,AGEs+Coffee,3,0.0858832773990764
+Lactic acid,organic acid,L1,Control,1,0.09121218439628626
+Lactic acid,organic acid,L2,Control,2,0.16945813301784166
+Lactic acid,organic acid,L3,Control,3,0.12119033771259913
+Lactic acid,organic acid,H1,AGEs,1,0.09289447077024278
+Lactic acid,organic acid,H2,AGEs,2,0.3516131697960124
+Lactic acid,organic acid,H3,AGEs,3,0.10871336111958253
+Lactic acid,organic acid,HC1,AGEs+Coffee,1,0.1592921391385489
+Lactic acid,organic acid,HC2,AGEs+Coffee,2,0.15049241757335888
+Lactic acid,organic acid,HC3,AGEs+Coffee,3,0.31460471189664224
+Glycolic acid,organic acid,L1,Control,1,0.004453054848014618
+Glycolic acid,organic acid,L2,Control,2,0.005081287566987672
+Glycolic acid,organic acid,L3,Control,3,0.003455670125507547
+Glycolic acid,organic acid,H1,AGEs,1,0.0034400847839592646
+Glycolic acid,organic acid,H2,AGEs,2,0.007648908944302821
+Glycolic acid,organic acid,H3,AGEs,3,0.00351868794686727
+Glycolic acid,organic acid,HC1,AGEs+Coffee,1,0.0030103780673794824
+Glycolic acid,organic acid,HC2,AGEs+Coffee,2,0.0043395030129218266
+Glycolic acid,organic acid,HC3,AGEs+Coffee,3,0.0031960589251590612
+3-Hydroxybutyric acid,organic acid,L1,Control,1,0.31698206519062744
+3-Hydroxybutyric acid,organic acid,L2,Control,2,0.3047599472620904
+3-Hydroxybutyric acid,organic acid,L3,Control,3,0.43402700396253796
+3-Hydroxybutyric acid,organic acid,H1,AGEs,1,0.29669513101314393
+3-Hydroxybutyric acid,organic acid,H2,AGEs,2,0.2805956357772113
+3-Hydroxybutyric acid,organic acid,H3,AGEs,3,0.35338822811832876
+3-Hydroxybutyric acid,organic acid,HC1,AGEs+Coffee,1,0.21044277644074375
+3-Hydroxybutyric acid,organic acid,HC2,AGEs+Coffee,2,0.37550134795303486
+3-Hydroxybutyric acid,organic acid,HC3,AGEs+Coffee,3,0.16303513342287976
+Succinic acid,organic acid,L1,Control,1,0.023186270760403645
+Succinic acid,organic acid,L2,Control,2,0.03824200283741985
+Succinic acid,organic acid,L3,Control,3,0.0224706886336582
+Succinic acid,organic acid,H1,AGEs,1,0.02318402748169714
+Succinic acid,organic acid,H2,AGEs,2,0.04746230010667655
+Succinic acid,organic acid,H3,AGEs,3,0.031338822811832874
+Succinic acid,organic acid,HC1,AGEs+Coffee,1,0.032747239607572365
+Succinic acid,organic acid,HC2,AGEs+Coffee,2,0.030634000983105043
+Succinic acid,organic acid,HC3,AGEs+Coffee,3,0.03883785775021709
+Fumaric acid,organic acid,L1,Control,1,0.04042221246624846
+Fumaric acid,organic acid,L2,Control,2,0.06416980403755822
+Fumaric acid,organic acid,L3,Control,3,0.0474852288107494
+Fumaric acid,organic acid,H1,AGEs,1,0.039684009209292125
+Fumaric acid,organic acid,H2,AGEs,2,0.06085195999378972
+Fumaric acid,organic acid,H3,AGEs,3,0.04328419911219545
+Fumaric acid,organic acid,HC1,AGEs+Coffee,1,0.045942261230011404
+Fumaric acid,organic acid,HC2,AGEs+Coffee,2,0.038057156465340455
+Fumaric acid,organic acid,HC3,AGEs+Coffee,3,0.050620825091578635
+Malic acid,organic acid,L1,Control,1,0.09799340109660405
+Malic acid,organic acid,L2,Control,2,0.14956511276989326
+Malic acid,organic acid,L3,Control,3,0.10865045414272746
+Malic acid,organic acid,H1,AGEs,1,0.09207343070494939
+Malic acid,organic acid,H2,AGEs,2,0.14895777511782
+Malic acid,organic acid,H3,AGEs,3,0.0945532174443428
+Malic acid,organic acid,HC1,AGEs+Coffee,1,0.10025332659671367
+Malic acid,organic acid,HC2,AGEs+Coffee,2,0.08702311518103482
+Malic acid,organic acid,HC3,AGEs+Coffee,3,0.11446845682094715
+2-Hydroxyglutaric acid,organic acid,L1,Control,1,0.010040852849064492
+2-Hydroxyglutaric acid,organic acid,L2,Control,2,0.005566556545366133
+2-Hydroxyglutaric acid,organic acid,L3,Control,3,0.0034312100145129994
+2-Hydroxyglutaric acid,organic acid,H1,AGEs,1,0.0040369833477482304
+2-Hydroxyglutaric acid,organic acid,H2,AGEs,2,0.008313759271594489
+2-Hydroxyglutaric acid,organic acid,H3,AGEs,3,0.006652434685371556
+2-Hydroxyglutaric acid,organic acid,HC1,AGEs+Coffee,1,0.003857926098031883
+2-Hydroxyglutaric acid,organic acid,HC2,AGEs+Coffee,2,0.005037650073631108
+2-Hydroxyglutaric acid,organic acid,HC3,AGEs+Coffee,3,0.006461793741298578
+Citric acid,organic acid,L1,Control,1,0.0999894174461259
+Citric acid,organic acid,L2,Control,2,0.1027717481213373
+Citric acid,organic acid,L3,Control,3,0.08649367026683263
+Citric acid,organic acid,H1,AGEs,1,0.07083115079606778
+Citric acid,organic acid,H2,AGEs,2,0.11192273212166134
+Citric acid,organic acid,H3,AGEs,3,0.11396699535766325
+Citric acid,organic acid,HC1,AGEs+Coffee,1,0.07999071565642771
+Citric acid,organic acid,HC2,AGEs+Coffee,2,0.08350286637200655
+Citric acid,organic acid,HC3,AGEs+Coffee,3,0.08019566022422733
+Arabitol,sugar alcohol,L1,Control,1,0.00118817981121143
+Arabitol,sugar alcohol,L2,Control,2,0.0008622547962923044
+Arabitol,sugar alcohol,L3,Control,3,0.0010341191370472841
+Arabitol,sugar alcohol,H1,AGEs,1,0.0008977841663519753
+Arabitol,sugar alcohol,H2,AGEs,2,0.0014774451717592615
+Arabitol,sugar alcohol,H3,AGEs,3,0.0016766629392429941
+Arabitol,sugar alcohol,HC1,AGEs+Coffee,1,0.0017150245765483578
+Arabitol,sugar alcohol,HC2,AGEs+Coffee,2,0.0017677572076560068
+Arabitol,sugar alcohol,HC3,AGEs+Coffee,3,0.0010025586535521156
+Ribitol,sugar alcohol,L1,Control,1,0.00311399506077634
+Ribitol,sugar alcohol,L2,Control,2,0.003793921103686139
+Ribitol,sugar alcohol,L3,Control,3,0.0030738206149815463
+Ribitol,sugar alcohol,H1,AGEs,1,0.0027043159420642943
+Ribitol,sugar alcohol,H2,AGEs,2,0.0040178996238775175
+Ribitol,sugar alcohol,H3,AGEs,3,0.0032516688692352004
+Ribitol,sugar alcohol,HC1,AGEs+Coffee,1,0.006270448708104693
+Ribitol,sugar alcohol,HC2,AGEs+Coffee,2,0.0031894940062141197
+Ribitol,sugar alcohol,HC3,AGEs+Coffee,3,0.0023651094105032536
+"1,5-Anhydro-glucitol",sugar alcohol,L1,Control,1,0.011773877018150651
+"1,5-Anhydro-glucitol",sugar alcohol,L2,Control,2,0.007939762478882277
+"1,5-Anhydro-glucitol",sugar alcohol,L3,Control,3,0.01254667804514793
+"1,5-Anhydro-glucitol",sugar alcohol,H1,AGEs,1,0.005950713232875711
+"1,5-Anhydro-glucitol",sugar alcohol,H2,AGEs,2,0.009070010867986518
+"1,5-Anhydro-glucitol",sugar alcohol,H3,AGEs,3,0.007658161363559351
+"1,5-Anhydro-glucitol",sugar alcohol,HC1,AGEs+Coffee,1,0.0028872901791104615
+"1,5-Anhydro-glucitol",sugar alcohol,HC2,AGEs+Coffee,2,0.0027590039090129156
+"1,5-Anhydro-glucitol",sugar alcohol,HC3,AGEs+Coffee,3,0.004096684330795325
+Sorbitol,sugar alcohol,L1,Control,1,0.01973489130878949
+Sorbitol,sugar alcohol,L2,Control,2,0.018233681076013777
+Sorbitol,sugar alcohol,L3,Control,3,0.020629385833790828
+Sorbitol,sugar alcohol,H1,AGEs,1,0.02148713013606851
+Sorbitol,sugar alcohol,H2,AGEs,2,0.021419198773970922
+Sorbitol,sugar alcohol,H3,AGEs,3,0.02532750499813629
+Sorbitol,sugar alcohol,HC1,AGEs+Coffee,1,0.022438335898641228
+Sorbitol,sugar alcohol,HC2,AGEs+Coffee,2,0.023495803484832604
+Sorbitol,sugar alcohol,HC3,AGEs+Coffee,3,0.02276337164217043
+Galactitol,sugar alcohol,L1,Control,1,0.017877181603958923
+Galactitol,sugar alcohol,L2,Control,2,0.011534161833193802
+Galactitol,sugar alcohol,L3,Control,3,0.014155609790567094
+Galactitol,sugar alcohol,H1,AGEs,1,0.015289130355337369
+Galactitol,sugar alcohol,H2,AGEs,2,0.015832452709233783
+Galactitol,sugar alcohol,H3,AGEs,3,0.013937853681678018
+Galactitol,sugar alcohol,HC1,AGEs+Coffee,1,0.01793800825040531
+Galactitol,sugar alcohol,HC2,AGEs+Coffee,2,0.013794001837978997
+Galactitol,sugar alcohol,HC3,AGEs+Coffee,3,0.01865636495715578
+Inositol,sugar alcohol,L1,Control,1,0.189595358764293
+Inositol,sugar alcohol,L2,Control,2,0.17079462795209474
+Inositol,sugar alcohol,L3,Control,3,0.23616508944247253
+Inositol,sugar alcohol,H1,AGEs,1,0.2256081665468809
+Inositol,sugar alcohol,H2,AGEs,2,0.1851113592996409
+Inositol,sugar alcohol,H3,AGEs,3,0.2359594727389787
+Inositol,sugar alcohol,HC1,AGEs+Coffee,1,0.20944048935055312
+Inositol,sugar alcohol,HC2,AGEs+Coffee,2,0.19827885377686366
+Inositol,sugar alcohol,HC3,AGEs+Coffee,3,0.27303013998402614
+Glucose,sugar,L1,Control,1,1.071513965303892
+Glucose,sugar,L2,Control,2,0.690139715355655
+Glucose,sugar,L3,Control,3,0.884064509466063
+Glucose,sugar,H1,AGEs,1,0.8057168264486971
+Glucose,sugar,H2,AGEs,2,0.6676462044683952
+Glucose,sugar,H3,AGEs,3,0.7818196604655892
+Glucose,sugar,HC1,AGEs+Coffee,1,0.8185520409730274
+Glucose,sugar,HC2,AGEs+Coffee,2,1.0230683665088882
+Glucose,sugar,HC3,AGEs+Coffee,3,1.299108277624878
+Sucrose,sugar,L1,Control,1,0.002013828568913905
+Sucrose,sugar,L2,Control,2,0.002341122034119222
+Sucrose,sugar,L3,Control,3,0.0015600115234300686
+Sucrose,sugar,H1,AGEs,1,0.004713062333264305
+Sucrose,sugar,H2,AGEs,2,0.02264247329330041
+Sucrose,sugar,H3,AGEs,3,0.00043915827996340347
+Sucrose,sugar,HC1,AGEs+Coffee,1,0.0007994851409473548
+Sucrose,sugar,HC2,AGEs+Coffee,2,0.0021687337993753315
+Sucrose,sugar,HC3,AGEs+Coffee,3,0.0077095083075597055
+Decanoic acid,fatty acid,L1,Control,1,0.0023732162895889674
+Decanoic acid,fatty acid,L2,Control,2,0.0019531073757876848
+Decanoic acid,fatty acid,L3,Control,3,0.002219075625227615
+Decanoic acid,fatty acid,H1,AGEs,1,0.003695898454154536
+Decanoic acid,fatty acid,H2,AGEs,2,0.001885620702262244
+Decanoic acid,fatty acid,H3,AGEs,3,0.0026959438853308934
+Decanoic acid,fatty acid,HC1,AGEs+Coffee,1,0.002498097999059843
+Decanoic acid,fatty acid,HC2,AGEs+Coffee,2,0.0033859114737314535
+Decanoic acid,fatty acid,HC3,AGEs+Coffee,3,0.0016993175633566748
+Palmitic acid,fatty acid,L1,Control,1,0.15414799439648533
+Palmitic acid,fatty acid,L2,Control,2,0.21878813096246685
+Palmitic acid,fatty acid,L3,Control,3,0.18537366896229338
+Palmitic acid,fatty acid,H1,AGEs,1,0.3362512333873384
+Palmitic acid,fatty acid,H2,AGEs,2,0.1475078755340088
+Palmitic acid,fatty acid,H3,AGEs,3,0.17915760225000849
+Palmitic acid,fatty acid,HC1,AGEs+Coffee,1,0.2596087680778009
+Palmitic acid,fatty acid,HC2,AGEs+Coffee,2,0.3173139453348816
+Palmitic acid,fatty acid,HC3,AGEs+Coffee,3,0.1654092748933249
+Glycerol,alcohol,L1,Control,1,0.13988564555150299
+Glycerol,alcohol,L2,Control,2,0.13290755325175332
+Glycerol,alcohol,L3,Control,3,0.09591896637006517
+Glycerol,alcohol,H1,AGEs,1,0.07927665639351451
+Glycerol,alcohol,H2,AGEs,2,0.13759271594488878
+Glycerol,alcohol,H3,AGEs,3,0.13147368777743892
+Glycerol,alcohol,HC1,AGEs+Coffee,1,0.09098891153966536
+Glycerol,alcohol,HC2,AGEs+Coffee,2,0.08977499514044866
+Glycerol,alcohol,HC3,AGEs+Coffee,3,0.10081327248305522
+Threonic acid,sugar acid,L1,Control,1,0.024842807163865083
+Threonic acid,sugar acid,L2,Control,2,0.019666427708457616
+Threonic acid,sugar acid,L3,Control,3,0.02133737015757747
+Threonic acid,sugar acid,H1,AGEs,1,0.023668855294733893
+Threonic acid,sugar acid,H2,AGEs,2,0.02438034947838673
+Threonic acid,sugar acid,H3,AGEs,3,0.02817932296431839
+Threonic acid,sugar acid,HC1,AGEs+Coffee,1,0.022375033556102875
+Threonic acid,sugar acid,HC2,AGEs+Coffee,2,0.023628105405958267
+Threonic acid,sugar acid,HC3,AGEs+Coffee,3,0.023031752851872925
+Putrescine,amine,L1,Control,1,0.03280801256494911
+Putrescine,amine,L2,Control,2,0.01744160980965224
+Putrescine,amine,L3,Control,3,0.04527294766079805
+Putrescine,amine,H1,AGEs,1,0.039134618898539426
+Putrescine,amine,H2,AGEs,2,0.035130641211204544
+Putrescine,amine,H3,AGEs,3,0.0897048558164752
+Putrescine,amine,HC1,AGEs+Coffee,1,0.03134403768130553
+Putrescine,amine,HC2,AGEs+Coffee,2,0.03771011834915698
+Putrescine,amine,HC3,AGEs+Coffee,3,0.02959160895825511
+2-Aminoethanol,other,L1,Control,1,0.008906109696029237
+2-Aminoethanol,other,L2,Control,2,0.004771477413436136
+2-Aminoethanol,other,L3,Control,3,0.0024772656857256227
+2-Aminoethanol,other,H1,AGEs,1,0.00425016140624429
+2-Aminoethanol,other,H2,AGEs,2,0.00816351061005965
+2-Aminoethanol,other,H3,AGEs,3,0.006485717190200265
+2-Aminoethanol,other,HC1,AGEs+Coffee,1,0.006880026821436987
+2-Aminoethanol,other,HC2,AGEs+Coffee,2,0.007332579551618612
+2-Aminoethanol,other,HC3,AGEs+Coffee,3,0.006055351043912585
+Urea,other,L1,Control,1,3.4000980719844174
+Urea,other,L2,Control,2,2.4135975576131585
+Urea,other,L3,Control,3,3.348191038902448
+Urea,other,H1,AGEs,1,2.7945633504281835
+Urea,other,H2,AGEs,2,3.1134990909955977
+Urea,other,H3,AGEs,3,4.081520788858392
+Urea,other,HC1,AGEs+Coffee,1,2.8421005123972947
+Urea,other,HC2,AGEs+Coffee,2,3.1475481909747702
+Urea,other,HC3,AGEs+Coffee,3,3.337506145026496
+Phosphoric acid,other,L1,Control,1,3.778716702937235
+Phosphoric acid,other,L2,Control,2,4.112916276061902
+Phosphoric acid,other,L3,Control,3,3.8390674175014814
+Phosphoric acid,other,H1,AGEs,1,4.212901536100182
+Phosphoric acid,other,H2,AGEs,2,5.823352648633488
+Phosphoric acid,other,H3,AGEs,3,4.877144115753448
+Phosphoric acid,other,HC1,AGEs+Coffee,1,4.992948822400589
+Phosphoric acid,other,HC2,AGEs+Coffee,2,4.763026905122222
+Phosphoric acid,other,HC3,AGEs+Coffee,3,6.04277583588489
+Niacinamide,other,L1,Control,1,0.06915122679041619
+Niacinamide,other,L2,Control,2,0.07502318563042355
+Niacinamide,other,L3,Control,3,0.08114641822441336
+Niacinamide,other,H1,AGEs,1,0.07963966817312494
+Niacinamide,other,H2,AGEs,2,0.0944876270227226
+Niacinamide,other,H3,AGEs,3,0.09365999118972586
+Niacinamide,other,HC1,AGEs+Coffee,1,0.0669926346552191
+Niacinamide,other,HC2,AGEs+Coffee,2,0.0685323951430947
+Niacinamide,other,HC3,AGEs+Coffee,3,0.05754970536130175
+Creatinine,other,L1,Control,1,0.7901207144585976
+Creatinine,other,L2,Control,2,0.9749364588398662
+Creatinine,other,L3,Control,3,0.7565784109624782
+Creatinine,other,H1,AGEs,1,0.8164951090862579
+Creatinine,other,H2,AGEs,2,1.1473864245326015
+Creatinine,other,H3,AGEs,3,0.8430348005828335
+Creatinine,other,HC1,AGEs+Coffee,1,0.4612490021089058
+Creatinine,other,HC2,AGEs+Coffee,2,0.7347061523446444
+Creatinine,other,HC3,AGEs+Coffee,3,0.8210581187251377
+Hypotaurine,other,L1,Control,1,0.11683244254773413
+Hypotaurine,other,L2,Control,2,0.19514129448507847
+Hypotaurine,other,L3,Control,3,0.1264479026813717
+Hypotaurine,other,H1,AGEs,1,0.10522103519265205
+Hypotaurine,other,H2,AGEs,2,0.08249277554352454
+Hypotaurine,other,H3,AGEs,3,0.0936261055199756
+Hypotaurine,other,HC1,AGEs+Coffee,1,0.10476420463537264
+Hypotaurine,other,HC2,AGEs+Coffee,2,0.11093923169221281
+Hypotaurine,other,HC3,AGEs+Coffee,3,0.11385943792200687
+Taurine,other,L1,Control,1,25.525429038737386
+Taurine,other,L2,Control,2,22.926380484968192
+Taurine,other,L3,Control,3,30.143450397612693
+Taurine,other,H1,AGEs,1,27.204787370113653
+Taurine,other,H2,AGEs,2,26.225018655875473
+Taurine,other,H3,AGEs,3,26.703622378096302
+Taurine,other,HC1,AGEs+Coffee,1,20.96693742094534
+Taurine,other,HC2,AGEs+Coffee,2,14.34846799463872
+Taurine,other,HC3,AGEs+Coffee,3,8.47720630644231
+Glycerol 3-phosphate,other,L1,Control,1,0.014907779853541645
+Glycerol 3-phosphate,other,L2,Control,2,0.02524401309424144
+Glycerol 3-phosphate,other,L3,Control,3,0.0317967853978573
+Glycerol 3-phosphate,other,H1,AGEs,1,0.01875114202531337
+Glycerol 3-phosphate,other,H2,AGEs,2,0.05273227191001107
+Glycerol 3-phosphate,other,H3,AGEs,3,0.02251363898207448
+Glycerol 3-phosphate,other,HC1,AGEs+Coffee,1,0.029141350614091337
+Glycerol 3-phosphate,other,HC2,AGEs+Coffee,2,0.022060836494161924
+Glycerol 3-phosphate,other,HC3,AGEs+Coffee,3,0.031121897971270306
+O-Phosphoethanolamine,other,L1,Control,1,0.0074717021461628815
+O-Phosphoethanolamine,other,L2,Control,2,0.007634965434611509
+O-Phosphoethanolamine,other,L3,Control,3,0.007116533404358248
+O-Phosphoethanolamine,other,H1,AGEs,1,0.006141964405355033
+O-Phosphoethanolamine,other,H2,AGEs,2,0.006883892842654594
+O-Phosphoethanolamine,other,H3,AGEs,3,0.00784385483379079
+O-Phosphoethanolamine,other,HC1,AGEs+Coffee,1,0.0066174393264630755
+O-Phosphoethanolamine,other,HC2,AGEs+Coffee,2,0.003898835844864803
+O-Phosphoethanolamine,other,HC3,AGEs+Coffee,3,0.006646305822969044
+3-Phosphoglyceric acid,other,L1,Control,1,0.005566842448823922
+3-Phosphoglyceric acid,other,L2,Control,2,0.005584603738776901
+3-Phosphoglyceric acid,other,L3,Control,3,0.004088915221255293
+3-Phosphoglyceric acid,other,H1,AGEs,1,0.0037117345384999573
+3-Phosphoglyceric acid,other,H2,AGEs,2,0.012450605752520421
+3-Phosphoglyceric acid,other,H3,AGEs,3,0.0028355528447019753
+3-Phosphoglyceric acid,other,HC1,AGEs+Coffee,1,0.005210720603388551
+3-Phosphoglyceric acid,other,HC2,AGEs+Coffee,2,0.00441583104434048
+3-Phosphoglyceric acid,other,HC3,AGEs+Coffee,3,0.00791982627477849
+Ascorbic acid,other,L1,Control,1,0.19613139550356715
+Ascorbic acid,other,L2,Control,2,0.18525243511783313
+Ascorbic acid,other,L3,Control,3,0.16875030575138744
+Ascorbic acid,other,H1,AGEs,1,0.17742992532677151
+Ascorbic acid,other,H2,AGEs,2,0.14526416218842184
+Ascorbic acid,other,H3,AGEs,3,0.13326149571346277
+Ascorbic acid,other,HC1,AGEs+Coffee,1,0.030244452546102276
+Ascorbic acid,other,HC2,AGEs+Coffee,2,0.12384172212322193
+Ascorbic acid,other,HC3,AGEs+Coffee,3,0.1322667760836214
+Pantothenic acid,other,L1,Control,1,0.0053740513683451716
+Pantothenic acid,other,L2,Control,2,0.0037949237255422933
+Pantothenic acid,other,L3,Control,3,0.0010001467606659672
+Pantothenic acid,other,H1,AGEs,1,0.006896005652263951
+Pantothenic acid,other,H2,AGEs,2,0.001818008804571566
+Pantothenic acid,other,H3,AGEs,3,0.004796855409847175
+Pantothenic acid,other,HC1,AGEs+Coffee,1,0.009453149819060805
+Pantothenic acid,other,HC2,AGEs+Coffee,2,0.006170358059883921
+Pantothenic acid,other,HC3,AGEs+Coffee,3,0.008726260198163395
+Mannose 6-phosphate,other,L1,Control,1,0.015250403132435947
+Mannose 6-phosphate,other,L2,Control,2,0.06623921554865975
+Mannose 6-phosphate,other,L3,Control,3,0.015290287161703076
+Mannose 6-phosphate,other,H1,AGEs,1,0.0225432751458747
+Mannose 6-phosphate,other,H2,AGEs,2,0.07399496166154987
+Mannose 6-phosphate,other,H3,AGEs,3,0.015187557182067704
+Mannose 6-phosphate,other,HC1,AGEs+Coffee,1,0.04667961629402297
+Mannose 6-phosphate,other,HC2,AGEs+Coffee,2,0.02644613632593494
+Mannose 6-phosphate,other,HC3,AGEs+Coffee,3,0.019073130008761097
+Glucose 6-phosphate,other,L1,Control,1,0.007291484397019701
+Glucose 6-phosphate,other,L2,Control,2,0.05383678318803672
+Glucose 6-phosphate,other,L3,Control,3,0.012746435618270073
+Glucose 6-phosphate,other,H1,AGEs,1,0.015198986490601894
+Glucose 6-phosphate,other,H2,AGEs,2,0.06180854313889487
+Glucose 6-phosphate,other,H3,AGEs,3,0.010812239503913796
+Glucose 6-phosphate,other,HC1,AGEs+Coffee,1,0.02065180312033658
+Glucose 6-phosphate,other,HC2,AGEs+Coffee,2,0.015871141999651943
+Glucose 6-phosphate,other,HC3,AGEs+Coffee,3,0.01151974730876871

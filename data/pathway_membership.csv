@@ -1,0 +1,54 @@
+pathway,compound,in_measured_panel
+BCAA metabolism,Valine,True
+BCAA metabolism,Leucine,True
+BCAA metabolism,Isoleucine + allo-Isoleucine,True
+Aromatic AA,Phenylalanine,True
+Aromatic AA,Tyrosine,False
+Aromatic AA,Tryptophan,False
+Glycine/Serine/Threonine,Glycine,True
+Glycine/Serine/Threonine,Serine,True
+Glycine/Serine/Threonine,Threonine,True
+Glycine/Serine/Threonine,N-Acetylserine,True
+Ala/Asp/Glu metabolism,Alanine,True
+Ala/Asp/Glu metabolism,Aspartic acid,True
+Ala/Asp/Glu metabolism,Asparagine,True
+Ala/Asp/Glu metabolism,N-Acetylaspartic acid,True
+Ala/Asp/Glu metabolism,Pyruvic acid,True
+Sulfur AA / taurine,Methionine,True
+Sulfur AA / taurine,Cysteine,True
+Sulfur AA / taurine,Taurine,True
+Sulfur AA / taurine,Hypotaurine,True
+Proline/Arg/urea cycle,Proline,True
+Proline/Arg/urea cycle,4-Hydroxyproline,True
+Proline/Arg/urea cycle,5-Oxoproline,True
+Proline/Arg/urea cycle,Urea,True
+Proline/Arg/urea cycle,Creatinine,True
+Proline/Arg/urea cycle,Putrescine,True
+Proline/Arg/urea cycle,3-Aminopropanoic acid,True
+Glycolysis,Glucose,True
+Glycolysis,Glucose 6-phosphate,True
+Glycolysis,3-Phosphoglyceric acid,True
+Glycolysis,Pyruvic acid,True
+Glycolysis,Lactic acid,True
+TCA cycle,Citric acid,True
+TCA cycle,Succinic acid,True
+TCA cycle,Fumaric acid,True
+TCA cycle,Malic acid,True
+TCA cycle,2-Hydroxyglutaric acid,True
+Polyol / sugar alcohol,Sorbitol,True
+Polyol / sugar alcohol,Galactitol,True
+Polyol / sugar alcohol,Inositol,True
+Polyol / sugar alcohol,Arabitol,True
+Polyol / sugar alcohol,Ribitol,True
+Polyol / sugar alcohol,"1,5-Anhydro-glucitol",True
+Polyol / sugar alcohol,Mannose 6-phosphate,True
+Glutathione/antioxidant,Ascorbic acid,True
+Glutathione/antioxidant,5-Oxoproline,True
+Glutathione/antioxidant,Cysteine,True
+Glutathione/antioxidant,Threonic acid,True
+Fatty acid,Palmitic acid,True
+Fatty acid,Decanoic acid,True
+Fatty acid,Glycerol,True
+Fatty acid,Glycerol 3-phosphate,True
+Vitamin/cofactor,Niacinamide,True
+Vitamin/cofactor,Pantothenic acid,True

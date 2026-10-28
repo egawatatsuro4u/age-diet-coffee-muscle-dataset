@@ -1,0 +1,37 @@
+set,pathway,background_N,pathway_K,selected_n,hits_k,expected,p_hypergeom,q_BH
+ANOVA_p<0.05,Sulfur AA / taurine,54,4,5,2,0.3704,0.0388,0.465
+ANOVA_p<0.05,Aromatic AA,54,1,5,1,0.0926,0.0926,0.5556
+ANOVA_p<0.05,Vitamin/cofactor,54,2,5,1,0.1852,0.1782,0.7128
+ANOVA_p<0.05,Glutathione/antioxidant,54,4,5,1,0.3704,0.33,0.9901
+ANOVA_p<0.05,Polyol / sugar alcohol,54,7,5,1,0.6481,0.515,1.0
+ANOVA_p<0.05,BCAA metabolism,54,3,5,0,0.2778,1.0,1.0
+ANOVA_p<0.05,Fatty acid,54,4,5,0,0.3704,1.0,1.0
+ANOVA_p<0.05,Ala/Asp/Glu metabolism,54,5,5,0,0.463,1.0,1.0
+ANOVA_p<0.05,Glycolysis,54,5,5,0,0.463,1.0,1.0
+ANOVA_p<0.05,Glycine/Serine/Threonine,54,4,5,0,0.3704,1.0,1.0
+ANOVA_p<0.05,Proline/Arg/urea cycle,54,7,5,0,0.6481,1.0,1.0
+ANOVA_p<0.05,TCA cycle,54,5,5,0,0.463,1.0,1.0
+AGEs_vs_Coffee_p<0.05,Sulfur AA / taurine,54,4,4,2,0.2963,0.0239,0.2865
+AGEs_vs_Coffee_p<0.05,Aromatic AA,54,1,4,1,0.0741,0.0741,0.4444
+AGEs_vs_Coffee_p<0.05,Vitamin/cofactor,54,2,4,1,0.1481,0.144,0.5758
+AGEs_vs_Coffee_p<0.05,Glutathione/antioxidant,54,4,4,1,0.2963,0.2718,0.8153
+AGEs_vs_Coffee_p<0.05,Fatty acid,54,4,4,0,0.2963,1.0,1.0
+AGEs_vs_Coffee_p<0.05,Glycine/Serine/Threonine,54,4,4,0,0.2963,1.0,1.0
+AGEs_vs_Coffee_p<0.05,BCAA metabolism,54,3,4,0,0.2222,1.0,1.0
+AGEs_vs_Coffee_p<0.05,Ala/Asp/Glu metabolism,54,5,4,0,0.3704,1.0,1.0
+AGEs_vs_Coffee_p<0.05,Polyol / sugar alcohol,54,7,4,0,0.5185,1.0,1.0
+AGEs_vs_Coffee_p<0.05,Glycolysis,54,5,4,0,0.3704,1.0,1.0
+AGEs_vs_Coffee_p<0.05,Proline/Arg/urea cycle,54,7,4,0,0.5185,1.0,1.0
+AGEs_vs_Coffee_p<0.05,TCA cycle,54,5,4,0,0.3704,1.0,1.0
+Control_vs_Coffee_p<0.05,Sulfur AA / taurine,54,4,4,2,0.2963,0.0239,0.2865
+Control_vs_Coffee_p<0.05,Aromatic AA,54,1,4,1,0.0741,0.0741,0.4444
+Control_vs_Coffee_p<0.05,Glutathione/antioxidant,54,4,4,1,0.2963,0.2718,1.0
+Control_vs_Coffee_p<0.05,Polyol / sugar alcohol,54,7,4,1,0.5185,0.436,1.0
+Control_vs_Coffee_p<0.05,Fatty acid,54,4,4,0,0.2963,1.0,1.0
+Control_vs_Coffee_p<0.05,BCAA metabolism,54,3,4,0,0.2222,1.0,1.0
+Control_vs_Coffee_p<0.05,Glycine/Serine/Threonine,54,4,4,0,0.2963,1.0,1.0
+Control_vs_Coffee_p<0.05,Ala/Asp/Glu metabolism,54,5,4,0,0.3704,1.0,1.0
+Control_vs_Coffee_p<0.05,Glycolysis,54,5,4,0,0.3704,1.0,1.0
+Control_vs_Coffee_p<0.05,Proline/Arg/urea cycle,54,7,4,0,0.5185,1.0,1.0
+Control_vs_Coffee_p<0.05,TCA cycle,54,5,4,0,0.3704,1.0,1.0
+Control_vs_Coffee_p<0.05,Vitamin/cofactor,54,2,4,0,0.1481,1.0,1.0
