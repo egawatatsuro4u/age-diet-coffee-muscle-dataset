@@ -1,0 +1,16 @@
+{
+  "title": "Analysis code for: Skeletal-muscle phenotype and GC/MS metabolome dataset from mice fed a baked high-AGE diet with or without coffee intake",
+  "upload_type": "software",
+  "description": "Python scripts that reproduce every statistic and figure of the Data in Brief article from the deposited processed data files. Running the five scripts in order regenerates the deposited derived tables and the article figures.",
+  "creators": [
+    { "name": "Egawa, Tatsuro",   "affiliation": "Laboratory of Exercise Adaptomics, Graduate School of Human and Environmental Studies, Kyoto University, Kyoto, Japan" },
+    { "name": "Yokokawa, Takumi", "affiliation": "Division of Food Science and Biotechnology, Graduate School of Agriculture, Kyoto University, Kyoto, Japan" },
+    { "name": "Yokoyama, Shingo", "affiliation": "Laboratory of Physiology, Graduate School of Health Sciences, Toyohashi SOZO University, Aichi, Japan" },
+    { "name": "Ito, Rika",        "affiliation": "Faculty of Contemporary Business, Nagoya Sangyo University, Aichi, Japan" },
+    { "name": "Takemura, Ai",     "affiliation": "Laboratory of Exercise Adaptomics, Graduate School of Human and Environmental Studies, Kyoto University, Kyoto, Japan" },
+    { "name": "Goto, Katsumasa",  "affiliation": "Laboratory of Physiology, Graduate School of Health Sciences, Toyohashi SOZO University, Aichi, Japan" },
+    { "name": "Hayashi, Tatsuya", "affiliation": "Laboratory of Exercise Adaptomics, Graduate School of Human and Environmental Studies, Kyoto University, Kyoto, Japan" }
+  ],
+  "license": "MIT",
+  "keywords": ["metabolomics", "GC/MS", "advanced glycation end-products", "skeletal muscle", "coffee", "mouse"]
+}
