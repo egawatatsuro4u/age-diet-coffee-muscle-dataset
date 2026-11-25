@@ -1,21 +1,21 @@
-pathway,contrast,n_metabolites,mean_log2FC,ci_lo,ci_hi,includes_zero
-Ala/Asp/Glu metabolism,H vs L,5,0.1594,-0.2479,0.5668,True
-Ala/Asp/Glu metabolism,H+C vs L,5,-0.1112,-0.7719,0.5495,True
-BCAA metabolism,H vs L,3,0.2041,0.1275,0.2807,False
-BCAA metabolism,H+C vs L,3,0.0766,0.0244,0.1288,False
-Fatty acid,H vs L,4,0.2225,-0.1131,0.558,True
-Fatty acid,H+C vs L,4,0.1072,-0.4418,0.6562,True
-Glutathione/antioxidant,H vs L,4,0.0728,-0.2945,0.4401,True
-Glutathione/antioxidant,H+C vs L,4,-0.4918,-1.4219,0.4383,True
-Glycine/Serine/Threonine,H vs L,4,-0.0197,-0.2517,0.2123,True
-Glycine/Serine/Threonine,H+C vs L,4,-0.1883,-0.7113,0.3346,True
-Glycolysis,H vs L,5,0.2002,-0.1503,0.5507,True
-Glycolysis,H+C vs L,5,0.2454,-0.4241,0.9148,True
-Polyol / sugar alcohol,H vs L,7,0.0681,-0.1957,0.332,True
-Polyol / sugar alcohol,H+C vs L,7,-0.0546,-0.7561,0.6468,True
-Proline/Arg/urea cycle,H vs L,7,0.3109,0.0729,0.5489,False
-Proline/Arg/urea cycle,H+C vs L,7,-0.0618,-0.4925,0.3689,True
-Sulfur AA / taurine,H vs L,4,-0.0312,-0.7084,0.6461,True
-Sulfur AA / taurine,H+C vs L,4,-0.8171,-1.2672,-0.3669,False
-TCA cycle,H vs L,5,0.0298,-0.1566,0.2162,True
-TCA cycle,H+C vs L,5,-0.1375,-0.4366,0.1616,True
+pathway,contrast,n_measured_members,mean_log2FC,sd_log2FC,min_log2FC,max_log2FC,members
+Ala/Asp/Glu metabolism,H vs L,5,0.1752,0.3271,-0.087,0.7356,Alanine; Aspartic acid; Asparagine; N-Acetylaspartic acid; Pyruvic acid
+Ala/Asp/Glu metabolism,H+C vs L,5,-0.0691,0.5265,-0.7287,0.7216,Alanine; Aspartic acid; Asparagine; N-Acetylaspartic acid; Pyruvic acid
+BCAA metabolism,H vs L,3,0.2099,0.0307,0.1764,0.2365,Valine; Leucine; Isoleucine + allo-Isoleucine
+BCAA metabolism,H+C vs L,3,0.1213,0.0225,0.0991,0.1442,Valine; Leucine; Isoleucine + allo-Isoleucine
+Fatty acid,H vs L,4,0.2326,0.2099,-0.0682,0.4038,Palmitic acid; Decanoic acid; Glycerol; Glycerol 3-phosphate
+Fatty acid,H+C vs L,4,0.1548,0.347,-0.3427,0.4641,Palmitic acid; Decanoic acid; Glycerol; Glycerol 3-phosphate
+Glutathione/antioxidant,H vs L,4,0.0815,0.2301,-0.2614,0.2188,Ascorbic acid; 5-Oxoproline; Cysteine; Threonic acid
+Glutathione/antioxidant,H+C vs L,4,-0.4458,0.5859,-0.9961,0.1132,Ascorbic acid; 5-Oxoproline; Cysteine; Threonic acid
+Glycine/Serine/Threonine,H vs L,4,-0.0113,0.1443,-0.102,0.203,Glycine; Serine; Threonine; N-Acetylserine
+Glycine/Serine/Threonine,H+C vs L,4,-0.1402,0.3275,-0.5072,0.1992,Glycine; Serine; Threonine; N-Acetylserine
+Glycolysis,H vs L,5,0.2254,0.2914,-0.2247,0.5619,Glucose; Glucose 6-phosphate; 3-Phosphoglyceric acid; Pyruvic acid; Lactic acid
+Glycolysis,H+C vs L,5,0.288,0.5281,-0.5578,0.7464,Glucose; Glucose 6-phosphate; 3-Phosphoglyceric acid; Pyruvic acid; Lactic acid
+Polyol / sugar alcohol,H vs L,7,0.0806,0.2871,-0.4993,0.4023,"Sorbitol; Galactitol; Inositol; Arabitol; Ribitol; 1,5-Anhydro-glucitol; Mannose 6-phosphate"
+Polyol / sugar alcohol,H+C vs L,7,-0.0067,0.7625,-1.6903,0.5913,"Sorbitol; Galactitol; Inositol; Arabitol; Ribitol; 1,5-Anhydro-glucitol; Mannose 6-phosphate"
+Proline/Arg/urea cycle,H vs L,7,0.3191,0.2544,0.0642,0.774,Proline; 4-Hydroxyproline; 5-Oxoproline; Urea; Creatinine; Putrescine; 3-Aminopropanoic acid
+Proline/Arg/urea cycle,H+C vs L,7,-0.0153,0.4665,-0.8813,0.589,Proline; 4-Hydroxyproline; 5-Oxoproline; Urea; Creatinine; Putrescine; 3-Aminopropanoic acid
+Sulfur AA / taurine,H vs L,4,-0.0224,0.4248,-0.6298,0.3468,Methionine; Cysteine; Taurine; Hypotaurine
+Sulfur AA / taurine,H+C vs L,4,-0.7627,0.2787,-0.9961,-0.364,Methionine; Cysteine; Taurine; Hypotaurine
+TCA cycle,H vs L,5,0.046,0.1513,-0.069,0.301,Citric acid; Succinic acid; Fumaric acid; Malic acid; 2-Hydroxyglutaric acid
+TCA cycle,H+C vs L,5,-0.0922,0.2417,-0.267,0.3314,Citric acid; Succinic acid; Fumaric acid; Malic acid; 2-Hydroxyglutaric acid
